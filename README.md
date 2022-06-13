@@ -8,4 +8,3 @@ Zero-knowledge University Application Submission
 
 ## Q8
   - [Simple Hello World circuit](simpleCircuit.png)
-  - [Tweaked Simple Hello World circuit Error](tweakedCircuitError.png)
